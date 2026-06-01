@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Finance & Technology student at **DUFE** (东北财经大学)
+- 🎓 Finance & Technology student at **DUFE**
 - 💡 Passionate about **Fintech**, data-driven applications, and building useful tools
 - 🌱 Currently exploring the intersection of finance and software engineering
 - ✨ I believe good code is like good finance — **clear, reliable, and impactful**
